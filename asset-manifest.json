@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weather-Check/static/css/main.ecefc7d4.css",
+    "main.js": "/Weather-Check/static/js/main.88a0dd53.js",
+    "static/media/cold.jpg": "/Weather-Check/static/media/cold.0ec24cbed19a8dd18912.jpg",
+    "static/media/wram.jpg": "/Weather-Check/static/media/wram.e3b476c45a9be14916e9.jpg",
+    "index.html": "/Weather-Check/index.html",
+    "main.ecefc7d4.css.map": "/Weather-Check/static/css/main.ecefc7d4.css.map",
+    "main.88a0dd53.js.map": "/Weather-Check/static/js/main.88a0dd53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecefc7d4.css",
+    "static/js/main.88a0dd53.js"
+  ]
+}
